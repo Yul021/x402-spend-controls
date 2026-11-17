@@ -1,0 +1,2 @@
+ALLOWED=false: HTTP 200, authorizations created: 1
+ALLOWED=true: Failed to create payment payload: All payment requirements were filtered out by allowedAssets, authorizations created: 0

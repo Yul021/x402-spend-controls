@@ -1,0 +1,3 @@
+CdpX402Client: spendControls not configured. No default spend cap is applied. Set `spendControls` to bound payment size.
+Paying from 0x60D349cEE21276aE6f3ECF341A9D006883c2f2D0
+HTTP 200

@@ -1,0 +1,5 @@
+cap=1 -> blocked/error: Failed to create payment payload: Payment amount 10000 exceeds per-payment cap 1
+cause: none
+cap=9999 -> blocked/error: Failed to create payment payload: Payment amount 10000 exceeds per-payment cap 9999
+cause: none
+cap=10000 -> HTTP 200

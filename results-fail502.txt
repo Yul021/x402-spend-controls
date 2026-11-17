@@ -1,0 +1,6 @@
+honest seller BEFORE failures: HTTP 200 (payloads created so far: 1)
+bad seller #1: HTTP 502 (payloads created so far: 2)
+bad seller #2: Failed to create payment payload: Payment of 10000 would push cumulative spend t (payloads created so far: 2)
+bad seller #3: Failed to create payment payload: Payment of 10000 would push cumulative spend t (payloads created so far: 2)
+bad seller #4: Failed to create payment payload: Payment of 10000 would push cumulative spend t (payloads created so far: 2)
+honest seller AFTER failures: Failed to create payment payload: Payment of 10000 would push cumulative spend t (payloads created so far: 2)

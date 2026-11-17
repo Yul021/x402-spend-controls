@@ -1,0 +1,4 @@
+1s bad seller #1: HTTP 502 (authorizations so far: 1)
+1s bad seller #2: HTTP 502 (authorizations so far: 2)
+1s honest seller (budget used up?): Failed to create payment payload: Payment of 10000 would push cumulati (authorizations so far: 2)
+36s honest seller after 35s: HTTP 200 (authorizations so far: 3)
